@@ -23,7 +23,7 @@ If you consider to take this cloud training, I provide my study experiences here
 Some-notes I made during the training and also collected some public available study-drive: https://lnkd.in/dbGxNQVF
 
 
-## EXAMTopic platform for AWS-Certified-Cloud-Practitioner
+## ExamTopic platform for AWS-Certified-Cloud-Practitioner
 One online platform which collected over 600 questions, i finished 524/600+ in one Sunday, crazy!:https://lnkd.in/dteNBCPH
 
 ## Guru website platform for AWS-Certified-Cloud-Practitioner
