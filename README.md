@@ -33,5 +33,5 @@ Wish this helps and good luck!
 #Accenture #Cloudfirst
 
 <p align="center">  
-  <img src="AWS Training & Certification - Certificate of Completion.pdf" width="400" alt="AWS Cloud Practitioner 2021 of Qiang Li"> 
+  <img src="AWS Cloud Certificate.PNG" width="400" alt="AWS Cloud Practitioner 2021 of Qiang Li"> 
 </p>
