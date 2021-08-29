@@ -18,15 +18,15 @@ Domain 4: Billing and Pricing     12%
 
 ```
 
-## KeyNote for AWS-Certified-Cloud-Practitioner
+## KeyNote 
 If you consider to take this cloud training, I provide my study experiences here:
 Some-notes I made during the training and also collected some public available study-drive: https://lnkd.in/dbGxNQVF
 
 
-## ExamTopic platform for AWS-Certified-Cloud-Practitioner
+## Exam topic platform 
 One online platform which collected over 600 questions, i finished 524/600+ in one Sunday, crazy!:https://lnkd.in/dteNBCPH
 
-## Guru website platform for AWS-Certified-Cloud-Practitioner
+## Guru website platform 
 A cloud Guru website where you can take the practice exam of AWS Cloud Practitioner exam:https://lnkd.in/dB7p-jNB
 
 Wish this helps and good luck!
